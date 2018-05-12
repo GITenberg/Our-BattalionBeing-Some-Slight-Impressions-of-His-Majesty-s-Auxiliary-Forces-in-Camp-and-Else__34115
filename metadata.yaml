@@ -1,0 +1,34 @@
+_repo: Our-BattalionBeing-Some-Slight-Impressions-of-His-Majesty-s-Auxiliary-Forces-in-Camp-and-Else__34115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 34115-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Raven-Hill, L. (Leonard)
+    aliases:
+    - Hill, L. Raven- (Leonard Raven-)
+    - Hill, Raven
+    - Raven-Hill, Leonard
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '36786'
+    url: http://www.gutenberg.org/2009/agents/36786
+description: ''
+gutenberg_issued: '2010-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NC'
+- !lcsh 'Caricatures and cartoons -- Great Britain'
+- !lcc 'U'
+- !lcsh 'Armies -- Caricatures and cartoons'
+title: 'Our Battalion
+
+  Being Some Slight Impressions of His Majesty''s Auxiliary Forces, in Camp and Elsewhere'
+url: http://www.gutenberg.org/ebooks/34115
