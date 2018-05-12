@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '36786'
     url: http://www.gutenberg.org/2009/agents/36786
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34115#Our-BattalionBeing-Some-Slight-Impressions-of-His-Majesty-s-Auxiliary-Forces-in-Camp-and-Else_
 gutenberg_issued: '2010-10-22'
 gutenberg_type: Text
 identifiers:
